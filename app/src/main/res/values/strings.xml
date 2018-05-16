@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Careem Movie App</string>
+    <string name="generic_error">Oops! Something went wrong,\nPlease try again later...</string>
+    <string name="base_url">https://api.themoviedb.org</string>
+    <string name="api_key">3fa9058382669f72dcb18fb405b7a831</string>
+    <string name="image_url">https://image.tmdb.org/t/p/w500/</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Movie Rating</string>
+    <string name="overview">Movie Overview</string>
+    <string name="no_overview">No overview available For the movie</string>
+    <string name="release_year">Enter Year e.g: (2018)</string>
+    <string name="search_movie">Search</string>
+</resources>
